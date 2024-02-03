@@ -14,5 +14,3 @@ fetch("https://jsonplaceholder.typicode.com/posts")
     console.log(groupedPosts);
   })
   .catch((error) => console.error("Error fetching data:", error));
-  
-  
